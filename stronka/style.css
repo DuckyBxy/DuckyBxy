@@ -1,0 +1,80 @@
+html {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: #222222;
+}
+#zad {
+    position: absolute;
+    width: 20%;
+    height: 100%;
+    background-color: #302c2c;
+}
+#zad1 {
+    position: absolute;
+    left: 4vw;
+    top: 10vh;
+    width: 60%;
+    height: 5%;
+    text-align: center;
+    color: white;
+    font-size: 3vw;
+    animation: 2s;
+    transition: ease-in-out;
+    border: none;
+}
+#zad2 {
+    position: absolute;
+    left: 4vw;
+    top: 35vh;
+    width: 60%;
+    height: 5%;
+    text-align: center;
+    color: white;
+    font-size: 3vw;
+    animation: 2s;
+    transition: ease-in-out;
+    border: none;
+}
+#zad3 {
+    position: absolute;
+    left: 4vw;
+    top: 60vh;
+    width: 60%;
+    height: 5%;
+    text-align: center;
+    color: white;
+    font-size: 3vw;
+    animation: 2s;
+    transition: ease-in-out;
+    border: none;
+}
+#inp1 {
+    position: absolute;
+    width: 25vw;
+    height: 5vh;
+    left: 30%;
+    top: 15%;
+    background-color: #493f3f;
+    border: none;
+}
+#inp2 {
+    position: absolute;
+    width: 25vw;
+    height: 5vh;
+    right: 10%;
+    top: 15%;
+    background-color: #493f3f;
+    border: none;
+}
+#button {
+    position: absolute;
+    width: 15vw;
+    height: 7.5vh;
+    font-size: 5vh;
+    left: 52.5%;
+    top: 30%;
+    background-color: #0a0707;
+    border: none;
+    color: #bdbdbd;
+}
